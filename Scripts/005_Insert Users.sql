@@ -1,0 +1,6 @@
+insert into "user"(nombre, apellido,email, password) values ('Damian', 'Nutz', 'damian_nutz@hotmail.com', 'sQnzu7wkTrgkQZF+0G1hi5AI3Qmzvv0bXgc5THBqi7mAsdd4Xll27ASbRt9fEyavWi6m0QP9B8lThf+rDKy8hg==')
+insert into "user"(nombre, apellido,email, password) values ('Pedro', 'Sanchez', 'psanchez@hotmail.com', 'T4hH1nuBqEwbjeMXOSjThAy6k3rsNBA7gnUtG/I8GrUIKZf+sbtQgyuVKcSechKD1sPGgkKRv2xJDeugKn7OXw==')
+insert into "user"(nombre, apellido,email, password) values ('Alejandro', 'Magno', 'alemagno@hotmail.com', '4ndP6pZhhy0dyPATNgvHjrfZaUPnJxjJ/D7kC9qZx6EAL0t8LAEet64UBPilhDB3aFLm8ny9srE0FKYyrAB8dQ==')
+insert into "user"(nombre, apellido,email, password) values ('Javier', 'Salinas', 'javier.salinas@outlook.com', 'uLj1cjm8ewBGM/BgapizV/5mh6PiJttdKi7RrsUy4quWPV3x6B6Wp7Jfs9Jxj3ToOr07qYBfCbLFjIWVuPIbwg==')
+insert into "user"(nombre, apellido,email, password) values ('Martin', 'Bustamante', 'loquito0o0_22@live.com', '38e20Rs/wtZtDaqWXC5pz8uLN9TXTdFjpu01SS4OUU5hwHd41pkzRiU2C1FqsXxGB+AC2hQxUKVrxYipzTaXvg==')
+insert into "user"(nombre, apellido,email, password) values ('Daniel', 'Marquez', 'marquezdan@hotmail.com', 'sQnzu7wkTrgkQZF+0G1hi5AI3Qmzvv0bXgc5THBqi7mAsdd4Xll27ASbRt9fEyavWi6m0QP9B8lThf+rDKy8hg==')
